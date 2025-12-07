@@ -1,1 +1,0 @@
-. "/home/mccakit/desktop/lua_template/conan/conanrunenv-release-x86_64.sh"
