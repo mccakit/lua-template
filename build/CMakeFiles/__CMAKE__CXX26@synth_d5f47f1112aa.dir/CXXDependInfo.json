@@ -1,0 +1,45 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "RELEASE",
+	"cxx-modules" : 
+	{
+		"CMakeFiles/__CMAKE__CXX26@synth_d5f47f1112aa.dir/70b2301d7307.bmi" : 
+		{
+			"bmi-only" : true,
+			"destination" : null,
+			"name" : "CXX_MODULES",
+			"relative-directory" : "",
+			"source" : "/home/mccakit/dev/libcxx/native/share/libc++/v1/std.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "INTERFACE"
+		},
+		"CMakeFiles/__CMAKE__CXX26@synth_d5f47f1112aa.dir/f6733e1179a8.bmi" : 
+		{
+			"bmi-only" : true,
+			"destination" : null,
+			"name" : "CXX_MODULES",
+			"relative-directory" : "",
+			"source" : "/home/mccakit/dev/libcxx/native/share/libc++/v1/std.compat.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "INTERFACE"
+		}
+	},
+	"database-info" : null,
+	"dir-cur-bld" : "/home/mccakit/desktop/lua_template/build",
+	"dir-cur-src" : "/home/mccakit/desktop/lua_template",
+	"dir-top-bld" : "/home/mccakit/desktop/lua_template/build",
+	"dir-top-src" : "/home/mccakit/desktop/lua_template",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/home/mccakit/dev/libcxx/native/share/libc++/v1"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/mccakit/desktop/lua_template/build/CMakeFiles/__CMAKE__CXX26@synth_d5f47f1112aa.dir",
+	"sources" : {}
+}

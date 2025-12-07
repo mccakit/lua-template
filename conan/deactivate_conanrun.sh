@@ -1,0 +1,1 @@
+. "/home/mccakit/desktop/lua_template/conan/deactivate_conanrunenv-release-x86_64.sh"

@@ -1,0 +1,6 @@
+[requires]
+lua/5.5.0-rc2
+
+[generators]
+CMakeDeps
+PkgConfigDeps

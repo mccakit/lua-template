@@ -1,0 +1,4 @@
+/home/mccakit/desktop/lua_template/build/CMakeFiles/main.dir
+/home/mccakit/desktop/lua_template/build/CMakeFiles/edit_cache.dir
+/home/mccakit/desktop/lua_template/build/CMakeFiles/rebuild_cache.dir
+/home/mccakit/desktop/lua_template/build/CMakeFiles/__CMAKE__CXX26@synth_d5f47f1112aa.dir
